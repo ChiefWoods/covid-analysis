@@ -10,9 +10,13 @@ Script for PRG2104 Object-Oriented Programming.
 
 ## Built With
 
-### Tools and Languages
+### Languages
 
 - [![Scala](https://img.shields.io/badge/Scala-%2322525E?style=for-the-badge&logo=scala&logoColor=%23DC3330)](https://www.scala-lang.org/)
+
+### Tools
+
+- [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-white?style=for-the-badge&logo=intellij-idea&logoColor=000000)](https://www.jetbrains.com/idea/)
 
 ## Getting Started
 
@@ -21,10 +25,6 @@ Script for PRG2104 Object-Oriented Programming.
 1. Clone the repository
 ```
 git clone https://github.com/ChiefWoods/covid-analysis.git
-```
-2. Run script
-```
-scala src/main/scala/Main.scala
 ```
 
 ## Issues
